@@ -15,7 +15,7 @@ Limitaciones:
 Mejoras:
 - Decidir los tiempos de intervalo.
 - Suministrar el ID del rol y Canal para poder cambiarlo cuando quieras.
-- Base de datos para cada servidor
+- Usar una base de datos
 - Cambiar el hosting, dado a que uso Replit con Uptimer bot al ser gratutitos.
 
 Modulos: Discord.js; Fs;
